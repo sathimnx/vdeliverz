@@ -1,0 +1,23 @@
+button i {
+    vertical-align: middle;
+    outline: none;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.breadcrumb-item.active {
+    color: #0ed0b6 !important;
+}
+.tooltip-inner {
+    max-width: 70% !important;
+    margin-left: auto;
+    /* padding: auto; */
+}
+.ajax-load {
+    background: #e1e1e1;
+    padding: 10px 0px;
+    width: 100%;
+}

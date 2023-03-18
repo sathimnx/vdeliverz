@@ -1,0 +1,19 @@
+[22-Jul-2021 05:34:48 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:34:48 UTC] PHP Warning:  require(/home/deliverymnx/public_html/vmart/vendor/autoload.php): failed to open stream: No such file or directory in /home/deliverymnx/public_html/vmart/artisan on line 18
+[22-Jul-2021 05:34:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/deliverymnx/public_html/vmart/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/deliverymnx/public_html/vmart/artisan on line 18
+[22-Jul-2021 05:34:59 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:35:12 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:35:16 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:35:28 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:36:08 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:56:03 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:56:25 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[22-Jul-2021 05:56:26 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Sep-2021 12:15:04 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Sep-2021 12:15:08 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Sep-2021 12:15:48 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Sep-2021 12:17:08 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Sep-2021 12:17:10 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[04-Oct-2021 04:27:33 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Oct-2021 04:59:47 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Oct-2021 04:59:50 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
